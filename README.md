@@ -3,7 +3,17 @@ Advanced E-Commerce Management System using MongoDB
 
 
 🛒 Advanced E-Commerce Management System (MongoDB)#
-📌 Project OverviewThis project is a **backend-based Advanced E-Commerce Management System** developed using **Node.js, Express.js, and MongoDB**.  The system demonstrates how modern e-commerce platforms handle a large amount of diverse and dynamic data using a **NoSQL database**.
+
+
+📌 Project Overview
+
+This project is a **backend-based Advanced E-Commerce Management System** developed using **Node.js, Express.js, and MongoDB**.
+
+
+The system demonstrates how modern e-commerce platforms handle a large amount of diverse and dynamic data using a **NoSQL database**.
+
+
+
 It manages:- Products from multiple categories- Users with addresses- Orders with real transaction dataThe main focus of this project is on **MongoDB schema design, flexibility, and implementation of CRUD operations**.---## 🎯 Objectives- Develop a scalable e-commerce backend system  - Implement all **CRUD operations (Create, Read, Update, Delete)**  - Use MongoDB to manage flexible and dynamic product data  - Handle a **large realistic dataset**  - Demonstrate advantages of NoSQL over relational databases  ---## 🧰 Technology Stack- **Node.js** – Backend runtime environment  - **Express.js** – API framework  - **MongoDB** – NoSQL database  - **Mongoose** – Object Data Modeling (ODM)  - **MongoDB Compass** – Database visualization tool  ---## 📂 Project StructureShow more lines
 config/
 models/
