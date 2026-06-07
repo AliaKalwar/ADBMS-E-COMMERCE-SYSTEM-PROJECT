@@ -1,0 +1,17 @@
+{
+  "name": "adbms-ecommerce",
+  "version": "1.0.0",
+  "description": "MongoDB E-Commerce Management System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Shifa Batool & Alia Kalwar",
+  "dependencies": {
+    "express": "^4.22.2",
+    "mongoose": "^7.8.9"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "type": "commonjs"
+}
